@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+   background-color: #122a51; 
+}
+
+
+.container{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    height: 10vh;
+    align-items: center;
+    color: white;
+}
+
+
+#titulo-cabeçalho{
+    font-size: 36px;
+    font-weight: bold;
+
+
+}
+.container nav ul li{
+    display: inline-block;
+    margin-left: 1em;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
